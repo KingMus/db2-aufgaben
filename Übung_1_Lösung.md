@@ -1,6 +1,7 @@
 #### 1b)
 
 ###### 1.
+![page](https://github.com/KingMus/db2-aufgaben/blob/master/src-bilder/page.png)
 <hr>
 
 ###### 2.
